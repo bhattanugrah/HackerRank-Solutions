@@ -24,4 +24,3 @@ def equalStacks(h1, h2, h3):
 
         if sum1 == sum2 == sum3:
             return sum1
-        
