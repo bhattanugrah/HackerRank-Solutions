@@ -26,4 +26,4 @@ def findMergeNode(head1, head2):
         return (c1-c2, head1, head2)
     else:
         return (c2-c1, head2, head1)
-    
+

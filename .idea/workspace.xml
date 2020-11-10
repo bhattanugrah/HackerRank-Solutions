@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a382fea6-eaad-40c0-a227-953f0caacde6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find Merge Point of Two Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find Merge Point of Two Lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1095" />
-    <option name="width" value="830" />
-    <option name="height" value="1040" />
   </component>
   <component name="ProjectId" id="1k5jjbEerBXFQgHuh8qiff1lc4G" />
   <component name="ProjectViewState">
