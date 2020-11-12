@@ -6,4 +6,3 @@ def reverse(head):
         return reverse(head.prev)
     else:
         return head
-    
