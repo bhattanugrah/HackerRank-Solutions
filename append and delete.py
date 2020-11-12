@@ -15,4 +15,3 @@ def appendAndDelete(s, t, k):
         return "Yes"
     else:
         return "No"
-    
